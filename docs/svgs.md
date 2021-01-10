@@ -54,13 +54,6 @@
 - [xampp](https://simpleicons.org/?q=xampp)
 - [xing](https://simpleicons.org/?q=xing)
 - [xmpp](https://simpleicons.org/?q=xmpp)
-<<<<<<< HEAD
-- youtube
-- [matrix](https://simpleicons.org/?q=matrix)
-- [amazon](https://simpleicons.org/?q=amazon)
-=======
 - [ycombinator](https://simpleicons.org/?q=ycombinator)
 - [youtube](https://simpleicons.org/?q=youtube)
-
->>>>>>> 2d935f2858ae27ce1d44fbfe2471a6c86be67b49
 
