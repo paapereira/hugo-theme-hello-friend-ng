@@ -33,3 +33,5 @@
 - [xmpp](https://simpleicons.org/?q=xmpp)
 - youtube
 - [matrix](https://simpleicons.org/?q=matrix)
+- [amazon](https://simpleicons.org/?q=amazon)
+
